@@ -35,5 +35,3 @@ No additional setup or installations are required to run this application. It is
 Feel free to fork this repository and submit pull requests to contribute to the development of the Search Operator Generator. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
-
-This template covers basic information that should be included in your README. Make sure to personalize the "Contribution" and "Contact" sections with your own information or preferences.
